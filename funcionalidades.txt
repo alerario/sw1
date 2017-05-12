@@ -16,3 +16,4 @@
 15 - Lucas Jacinto - calcular fibonacci
 -16 - lua - raiz quadrada
 17 - Rodrigo - Distância entre Pontos
+18 - Rubens - multiplicar n numeros
