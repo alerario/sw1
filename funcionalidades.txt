@@ -10,3 +10,4 @@ Roberto - baskara;
 Dafny - Fatoração de dois números;
 Fabricio - Multiplicar de N números
 Lucas Jacinto - calcular fibonacci
+lua - raiz quadrada
