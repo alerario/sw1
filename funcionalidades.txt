@@ -2,3 +2,4 @@
 1 - somar dois numeros;
 2 - somar n números;
 3 - subtrair um número de outro;
+função exponencial
