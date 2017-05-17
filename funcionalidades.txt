@@ -6,4 +6,5 @@ Henrique Nicolli - fatorial de um número
 Rafael Sampy - subtrair n números
 Tiago Coelho - Divisão de dois números;
 Anderson - multiplicar dois numeros;
-Roberto - baskara
+Roberto - baskara;
+Dafny - Fatoração de dois números;
