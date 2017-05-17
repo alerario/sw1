@@ -1,4 +1,4 @@
-﻿0 - sair;
+0 - sair;
 1 - somar dois numeros;
 2 - somar n números;
 3 - subtrair um número de outro;
@@ -10,9 +10,16 @@
 9 - Tiago Coelho - Divisão de dois números;
 10 - Anderson - multiplicar dois numeros;
 11 - Roberto - baskara;
-12 - Dafny - Fatoração de dois números;
+12 - Dafny - Fatoração;
 13 - Carlos - Raiz quadrada;
-14 - Fabricio - Multiplicar de N números
+14 - Fabricio - Multiplicar N números
 15 - Lucas Jacinto - calcular fibonacci
 -16 - lua - raiz quadrada
 17 - Rodrigo - Distância entre Pontos
+18 - Rubens - multiplicar n numeros
+19 - Joao Paulo - Numero primo
+20 - Caroline - multiplicar 3 numeros
+21- Joao Paulo - Numero primo
+22- Vitor stelmastchuk - subtração
+23 - Andressa - Leite - ordenacao
+24 - Rodrigo - Distância entre Pontos

@@ -20,7 +20,16 @@ public class Main {
             
             if(op==1){
                 new br.cli.gui.GuiSomar().somar2numeros();
+            }else if(op == 14){
+                new br.cli.gui.GuiMultiplicarMuitosNumeros().getGUI();
             }
+            if (op == 44) {
+                new br.cli.gui.GuiFubonacci().CalculaFib();
+            }
+            if (op == 22) {
+                new br.cli.gui.GuiFuncaoExponencial().elevarNumero();
+            }
+<<<<<<< HEAD
             
             if(op==7){
                 new br.cli.gui.GuiFatorial().fatorial();
@@ -30,6 +39,8 @@ public class Main {
                 new br.cli.gui.GuiSubtrairnNumeros().subtrairnumeros();
             }
             
+=======
+>>>>>>> f20013145446a8763fc73d435ea108c679e6a6d8
             menu();
             op = new java.util.Scanner(System.in).nextInt();
         }
@@ -40,8 +51,15 @@ public class Main {
         System.out.println("0 - sair");
         System.out.println("1 - somar dois numeros");
         System.out.println("2 - subtrair dois numeros");
+<<<<<<< HEAD
         System.out.println("7 - fatorial de um numero");
         System.out.println("8 - subtrair n numeros");
+=======
+        System.out.println("14 - Multiplicar N números");
+        System.out.println("22 - Exponencial");
+        System.out.println("44 - Calcular Fibonacci");
+
+>>>>>>> f20013145446a8763fc73d435ea108c679e6a6d8
     }
     
     
