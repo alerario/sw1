@@ -26,6 +26,7 @@ public class Main {
         System.out.println("##################################");
         System.out.println("0 - sair");
         System.out.println("1 - somar dois numeros");
+        System.out.println("2 - subtrair dois numeros");
     }
     
     
