@@ -13,4 +13,8 @@ Carlos - Raiz quadrada;
 =======
 Fabricio - Multiplicar de N números
 Lucas Jacinto - calcular fibonacci
+<<<<<<< HEAD
 >>>>>>> 7b4970bf0bf357ab8c08ea8b0811017c59d6e56d
+=======
+lua - raiz quadrada
+>>>>>>> 1863b2362d7d6f7dcadc8955c706c0fdb6e59fd5
