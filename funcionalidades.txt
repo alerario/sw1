@@ -1,4 +1,4 @@
-0 - sair;
+﻿0 - sair;
 1 - somar dois numeros;
 2 - somar n números;
 3 - subtrair um número de outro;
@@ -15,3 +15,4 @@
 14 - Fabricio - Multiplicar de N números
 15 - Lucas Jacinto - calcular fibonacci
 -16 - lua - raiz quadrada
+17 - ordenacao
