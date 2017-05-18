@@ -11,8 +11,9 @@ package br.cli.gui;
  */
 public class GuiOrdenacao {
     
-    public void Ordenacao() {
-
+    public void ordenacao() {
+        
+        
         System.out.println("Numeros Ordenados");
   
     }
