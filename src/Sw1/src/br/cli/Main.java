@@ -8,6 +8,7 @@ package br.cli;
 import br.cli.gui.GuiCalcularMedia;
 import br.cli.gui.GuiParOuImpar;
 import br.cli.gui.GuiSomatorio;
+import br.cli.gui.GuiMaiorMenor;
 
 /**
  *
@@ -25,6 +26,9 @@ public class Main {
 
             if (op == 1) {
                 new br.cli.gui.GuiSomar().somar2numeros();
+            }
+            if (op == 3){
+                new br.cli.gui.GuiMaiorMenor().maiorMenor();
             }
 
             if (op == 19) {
@@ -67,6 +71,7 @@ public class Main {
         System.out.println("0 - sair");
         System.out.println("1 - somar dois numeros");
         System.out.println("2 - subtrair dois numeros");
+        System.out.println("3 - Informar o maior e o menor número");
         System.out.println("7 - fatorial de um numero");
         System.out.println("8 - subtrair n numeros");
         System.out.println("22 - Exponencial");
