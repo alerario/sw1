@@ -1,4 +1,4 @@
-0 - sair;
+﻿0 - sair;
 1 - somar dois numeros;
 2 - somar n números;
 3 - subtrair um número de outro;
@@ -24,3 +24,4 @@
 23 - Andressa - Leite - ordenacao
 24 - Rodrigo - Distância entre Pontos
 25 - João Paulo - Media entre 2 Números
+26 - Luiz Guilherme Devide - Potenciação
