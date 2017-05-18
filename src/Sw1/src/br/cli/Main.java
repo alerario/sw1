@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -6,37 +5,45 @@
  */
 package br.cli;
 
+import br.cli.gui.GuiParOuImpar;
+
 /**
  *
  * @author utfpr
  */
 public class Main {
+
     public static void main(String[] args) {
         System.out.println("Bem vindo.");
         System.out.println("==>selecione as opcoes");
         int op;
         menu();
         op = new java.util.Scanner(System.in).nextInt();
-        while(op!=0){
-            
-            if(op==1){
+        while (op != 0) {
+
+            if (op == 1) {
                 new br.cli.gui.GuiSomar().somar2numeros();
             }
+
+            if (op == 19) {
+                new GuiParOuImpar();
+            }
+
             if (op == 44) {
                 new br.cli.gui.GuiFubonacci().CalculaFib();
             }
             if (op == 22) {
                 new br.cli.gui.GuiFuncaoExponencial().elevarNumero();
             }
-            if (op==17){
+            if (op == 17) {
                 new br.cli.gui.GuiDistPontos();
             }
             menu();
             op = new java.util.Scanner(System.in).nextInt();
         }
     }
-    
-    public static void menu(){
+
+    public static void menu() {
         System.out.println("##################################");
         System.out.println("0 - sair");
         System.out.println("1 - somar dois numeros");
@@ -44,22 +51,14 @@ public class Main {
         System.out.println("22 - Exponencial");
         System.out.println("44 - Calcular Fibonacci");
         System.out.println("17 - Calcular Distancia entre pontos");
+        System.out.println("19 - Informa um número para verificar se é par ou impar? ");
     }
-    
-    
+
 }
-=======
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package br.cli;
 
-/**
- *
- * @author utfpr
- */
 public class Main {
     public static void main(String[] args) {
         System.out.println("Bem vindo.");
@@ -116,3 +115,4 @@ public class Main {
     
 }
 >>>>>>> 477aa08be892a68b019e4c9f0d924945873560a1
+ */
