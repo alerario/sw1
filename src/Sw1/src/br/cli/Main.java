@@ -52,7 +52,7 @@ public class Main {
             }
             
             if (op == 17) {
-                new br.cli.gui.GuiDistPontos();
+                new br.cli.gui.GuiDistPontos().calcularDistancia();
             }
              if(op==7){
                 new br.cli.gui.GuiFatorial().fatorial();
