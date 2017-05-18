@@ -21,7 +21,15 @@ public class Main {
             if(op==1){
                 new br.cli.gui.GuiSomar().somar2numeros();
             }
-            
+            if (op == 44) {
+                new br.cli.gui.GuiFubonacci().CalculaFib();
+            }
+            if (op == 22) {
+                new br.cli.gui.GuiFuncaoExponencial().elevarNumero();
+            }
+            if (op==17){
+                new br.cli.gui.GuiDistPontos();
+            }
             menu();
             op = new java.util.Scanner(System.in).nextInt();
         }
@@ -32,6 +40,9 @@ public class Main {
         System.out.println("0 - sair");
         System.out.println("1 - somar dois numeros");
         System.out.println("2 - subtrair dois numeros");
+        System.out.println("22 - Exponencial");
+        System.out.println("44 - Calcular Fibonacci");
+        System.out.println("17 - Calcular Distancia entre pontos");
     }
     
     
