@@ -22,7 +22,6 @@ public class GuiDistPontos {
         ya = new java.util.Scanner(System.in).nextDouble();
         System.out.print("Digite o yB numero:");
         yb = new java.util.Scanner(System.in).nextDouble();
-        System.out.print("Digite outro numero:");
         System.out.println("Resultado:" + new br.cli.func.DistPontos().calcular(xa, xb, ya, yb));
     }
 }
