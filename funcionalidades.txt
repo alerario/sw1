@@ -15,4 +15,8 @@
 14 - Fabricio - Multiplicar de N números
 15 - Lucas Jacinto - calcular fibonacci
 -16 - lua - raiz quadrada
+<<<<<<< HEAD
 17 - ordenacao
+=======
+17 - Rodrigo - Distância entre Pontos
+>>>>>>> d05892ebfdf41ac4ff63060105db89c124795204
