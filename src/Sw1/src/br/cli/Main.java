@@ -78,7 +78,8 @@ public class Main {
         System.out.println("17 - Calcular Distancia entre pontos");
         System.out.println("19 - Informa um número para verificar se é par ou impar? ");
         System.out.println("21 - Informa um número para o somatorio? "); //calcula de 1 ate o numero informado
-        System.out.println("25 - Calcular a média entre dois números? "); //calcula a media entre 2 numeros
+        System.out.println("25 - Calcular a média entre dois números? ");
+        System.out.println("24 - Calcular a média entre dois números? ");//calcula a media entre 2 numeros
     }
 
 }
