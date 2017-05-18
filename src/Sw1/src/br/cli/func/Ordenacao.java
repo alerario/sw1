@@ -11,7 +11,7 @@ package br.cli.func;
  */
 public class Ordenacao {
     
-    public void Ordencao(){
+    public void Ordenacao(){
         
     }
 }
