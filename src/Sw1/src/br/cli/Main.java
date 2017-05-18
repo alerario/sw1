@@ -46,6 +46,15 @@ public class Main {
             if (op == 17) {
                 new br.cli.gui.GuiDistPontos();
             }
+             if(op==7){
+                new br.cli.gui.GuiFatorial().fatorial();
+            }
+            
+            if(op==8){
+               new br.cli.gui.GuiSubtrairnNumeros().subtrairnumeros();
+            }
+            
+            
             menu();
             op = new java.util.Scanner(System.in).nextInt();
         }
@@ -57,6 +66,8 @@ public class Main {
         System.out.println("0 - sair");
         System.out.println("1 - somar dois numeros");
         System.out.println("2 - subtrair dois numeros");
+        System.out.println("7 - fatorial de um numero");
+        System.out.println("8 - subtrair n numeros");
         System.out.println("22 - Exponencial");
         System.out.println("44 - Calcular Fibonacci");
         System.out.println("17 - Calcular Distancia entre pontos");
