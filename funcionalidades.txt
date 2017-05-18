@@ -23,3 +23,4 @@
 22- Vitor stelmastchuk - subtração
 23 - Andressa - Leite - ordenacao
 24 - Rodrigo - Distância entre Pontos
+25 - João Paulo - Media entre 2 Números
