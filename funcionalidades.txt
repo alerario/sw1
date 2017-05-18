@@ -18,3 +18,4 @@
 17 - Rodrigo - Distância entre Pontos
 18 - Caroline - multiplicar 3 numeros
 19- Joao Paulo - Numero primo
+20- Vitor stelmastchuk - subtração
