@@ -10,7 +10,7 @@
 9 - Tiago Coelho - Divisão de dois números;
 10 - Anderson - multiplicar dois numeros;
 11 - Roberto - baskara;
-12 - Dafny - Fatoração de dois números;
+12 - Dafny - Fatoração;
 13 - Carlos - Raiz quadrada;
 14 - Fabricio - Multiplicar de N números
 15 - Lucas Jacinto - calcular fibonacci
