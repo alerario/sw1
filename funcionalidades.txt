@@ -16,7 +16,7 @@
 15 - Lucas Jacinto - calcular fibonacci
 -16 - lua - raiz quadrada
 <<<<<<< HEAD
-17 - ordenacao
+17 - Andressa - Leite - ordenacao
 =======
 17 - Rodrigo - Distância entre Pontos
 <<<<<<< HEAD
