@@ -17,9 +17,8 @@
 -16 - lua - raiz quadrada
 17 - Rodrigo - Distância entre Pontos
 18 - Rubens - multiplicar n numeros
-19 - Joao Paulo - Numero primo
+19 - Joao Paulo - Numero par ou impar
 20 - Caroline - multiplicar 3 numeros
-21- Joao Paulo - Numero primo
 22- Vitor stelmastchuk - subtração
 23 - Andressa - Leite - ordenacao
 24 - Rodrigo - Distância entre Pontos
