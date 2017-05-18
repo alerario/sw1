@@ -6,6 +6,7 @@
 package br.cli;
 
 import br.cli.gui.GuiParOuImpar;
+import br.cli.gui.GuiSomatorio;
 
 /**
  *
@@ -27,6 +28,9 @@ public class Main {
 
             if (op == 19) {
                 new GuiParOuImpar();
+            }
+            if (op == 21) {
+                new GuiSomatorio();
             }
 
             if (op == 44) {
@@ -52,6 +56,7 @@ public class Main {
         System.out.println("44 - Calcular Fibonacci");
         System.out.println("17 - Calcular Distancia entre pontos");
         System.out.println("19 - Informa um número para verificar se é par ou impar? ");
+        System.out.println("21 - Informa um número para o somatorio? "); //calcula de 1 ate o numero informado
     }
 
 }
