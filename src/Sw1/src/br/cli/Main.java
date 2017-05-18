@@ -17,6 +17,11 @@ public class Main {
         menu();
         op = new java.util.Scanner(System.in).nextInt();
         while(op!=0){
+            
+            if(op==1){
+                new br.cli.gui.GuiSomar().somar2numeros();
+            }
+            
             menu();
             op = new java.util.Scanner(System.in).nextInt();
         }
