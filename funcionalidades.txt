@@ -1,4 +1,4 @@
-﻿0 - sair;
+0 - sair;
 1 - somar dois numeros;
 2 - somar n números;
 3 - subtrair um número de outro;
@@ -16,6 +16,10 @@
 15 - Lucas Jacinto - calcular fibonacci
 -16 - lua - raiz quadrada
 17 - Rodrigo - Distância entre Pontos
-18 - Caroline - multiplicar 3 numeros
-19- Joao Paulo - Numero primo
-20- Vitor stelmastchuk - subtração
+18 - Rubens - multiplicar n numeros
+19 - Joao Paulo - Numero primo
+20 - Caroline - multiplicar 3 numeros
+21- Joao Paulo - Numero primo
+22- Vitor stelmastchuk - subtração
+23 - Andressa - Leite - ordenacao
+24 - Rodrigo - Distância entre Pontos

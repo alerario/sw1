@@ -23,7 +23,12 @@ public class Main {
             }else if(op == 14){
                 new br.cli.gui.GuiMultiplicarMuitosNumeros().getGUI();
             }
-            
+            if (op == 44) {
+                new br.cli.gui.GuiFubonacci().CalculaFib();
+            }
+            if (op == 22) {
+                new br.cli.gui.GuiFuncaoExponencial().elevarNumero();
+            }
             menu();
             op = new java.util.Scanner(System.in).nextInt();
         }
@@ -35,6 +40,9 @@ public class Main {
         System.out.println("1 - somar dois numeros");
         System.out.println("2 - subtrair dois numeros");
         System.out.println("14 - Multiplicar N números");
+        System.out.println("22 - Exponencial");
+        System.out.println("44 - Calcular Fibonacci");
+
     }
     
     
