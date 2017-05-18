@@ -6,3 +6,4 @@ Tiago Coelho - Divisão de dois números;
 Anderson - multiplicar dois numeros;
 Roberto - baskara;
 Dafny - Fatoração de dois números;
+Lucas Jacinto - calcular fibonacci
