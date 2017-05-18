@@ -49,10 +49,11 @@ public class Main {
             menu();
             op = new java.util.Scanner(System.in).nextInt();
         }
+        System.out.println("Fim do programa!");
     }
 
     public static void menu() {
-        System.out.println("##################################");
+        System.out.println("###########################################");
         System.out.println("0 - sair");
         System.out.println("1 - somar dois numeros");
         System.out.println("2 - subtrair dois numeros");
