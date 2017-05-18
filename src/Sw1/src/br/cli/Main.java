@@ -20,6 +20,8 @@ public class Main {
             
             if(op==1){
                 new br.cli.gui.GuiSomar().somar2numeros();
+            }else if(op == 14){
+                new br.cli.gui.GuiMultiplicarMuitosNumeros().getGUI();
             }
             
             menu();
@@ -32,6 +34,7 @@ public class Main {
         System.out.println("0 - sair");
         System.out.println("1 - somar dois numeros");
         System.out.println("2 - subtrair dois numeros");
+        System.out.println("14 - Multiplicar N números");
     }
     
     

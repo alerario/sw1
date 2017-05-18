@@ -12,7 +12,7 @@
 11 - Roberto - baskara;
 12 - Dafny - Fatoração;
 13 - Carlos - Raiz quadrada;
-14 - Fabricio - Multiplicar de N números
+14 - Fabricio - Multiplicar N números
 15 - Lucas Jacinto - calcular fibonacci
 -16 - lua - raiz quadrada
 17 - Rodrigo - Distância entre Pontos
