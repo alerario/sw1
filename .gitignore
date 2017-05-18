@@ -3,5 +3,4 @@
 ### Java ###
 # Compiled class file
 *.class
-/nbproject/private/
-private.properties
+src/Sw1/nbproject/private/private.properties
