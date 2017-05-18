@@ -2,28 +2,16 @@
 1 - somar dois numeros;
 2 - somar n números;
 3 - subtrair um número de outro;
-<<<<<<< HEAD
-<<<<<<< HEAD
-função exponencial
-=======
-Tiago Coelho - Divisão de dois números;
-Anderson - multiplicar dois numeros;
->>>>>>> ec96ad66e9c7f3ff8b1d5f595506e720fa3a0750
-=======
-Henrique Nicolli - fatorial de um número
-Rafael Sampy - subtrair n números
-Tiago Coelho - Divisão de dois números;
-Anderson - multiplicar dois numeros;
-Roberto - baskara;
-Dafny - Fatoração de dois números;
-<<<<<<< HEAD
-Carlos - Raiz quadrada;
-=======
-Fabricio - Multiplicar de N números
-Lucas Jacinto - calcular fibonacci
-<<<<<<< HEAD
->>>>>>> 7b4970bf0bf357ab8c08ea8b0811017c59d6e56d
-=======
-lua - raiz quadrada
->>>>>>> 1863b2362d7d6f7dcadc8955c706c0fdb6e59fd5
->>>>>>> fb77ac3a2401451a632fca228d85032eaf3c816a
+4 - função exponencial
+5 - Tiago Coelho - Divisão de dois números;
+6 - Anderson - multiplicar dois numeros;
+7 - Henrique Nicolli - fatorial de um número
+8 - Rafael Sampy - subtrair n números
+9 - Tiago Coelho - Divisão de dois números;
+10 - Anderson - multiplicar dois numeros;
+11 - Roberto - baskara;
+12 - Dafny - Fatoração de dois números;
+13 - Carlos - Raiz quadrada;
+14 - Fabricio - Multiplicar de N números
+15 - Lucas Jacinto - calcular fibonacci
+-16 - lua - raiz quadrada
