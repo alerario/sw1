@@ -17,3 +17,4 @@
 -16 - lua - raiz quadrada
 17 - Rodrigo - Distância entre Pontos
 18- Joao Paulo - Numero primo
+19- Vitor stelmastchuk - subtração
