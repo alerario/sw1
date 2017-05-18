@@ -47,6 +47,10 @@ public class Main {
             if (op == 22) {
                 new br.cli.gui.GuiFuncaoExponencial().elevarNumero();
             }
+             if (op == 24) {
+                new br.cli.gui.GuiPorcentagem();
+            }
+            
             if (op == 17) {
                 new br.cli.gui.GuiDistPontos();
             }

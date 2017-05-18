@@ -14,7 +14,7 @@
 13 - Carlos - Raiz quadrada;
 14 - Fabricio - Multiplicar N números
 15 - Lucas Jacinto - calcular fibonacci
--16 - lua - raiz quadrada
+-16 - lua -porcentagem de um numero
 17 - Rodrigo - Distância entre Pontos
 18 - Rubens - multiplicar n numeros
 19 - Joao Paulo - Numero par ou impar
