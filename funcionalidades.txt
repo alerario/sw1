@@ -1,4 +1,4 @@
-﻿0 - sair;
+0 - sair;
 1 - somar dois numeros;
 2 - somar n números;
 3 - subtrair um número de outro;
@@ -12,17 +12,14 @@
 11 - Roberto - baskara;
 12 - Dafny - Fatoração;
 13 - Carlos - Raiz quadrada;
-14 - Fabricio - Multiplicar de N números
+14 - Fabricio - Multiplicar N números
 15 - Lucas Jacinto - calcular fibonacci
 -16 - lua - raiz quadrada
-<<<<<<< HEAD
 17 - Rodrigo - Distância entre Pontos
 18 - Rubens - multiplicar n numeros
-=======
-17 - Andressa - Leite - ordenacao
-18 - Rodrigo - Distância entre Pontos
 19 - Joao Paulo - Numero primo
 20 - Caroline - multiplicar 3 numeros
 21- Joao Paulo - Numero primo
 22- Vitor stelmastchuk - subtração
->>>>>>> 93c6a101999e187daa78432ef50e4cf1bb6f102d
+23 - Andressa - Leite - ordenacao
+24 - Rodrigo - Distância entre Pontos
