@@ -15,7 +15,7 @@ public class ParOuImpar {
         String resultado;
         if (numero % 2 != 0) {
             resultado = "impar";
-            if(numero==444)resultado = "Erro operacional, consulte o operador";
+            if(numero==4441)resultado = "Erro operacional, consulte o operador";
         } else {
             resultado = "par";
         }

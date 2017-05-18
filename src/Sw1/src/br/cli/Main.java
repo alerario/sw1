@@ -58,6 +58,7 @@ public class Main {
             menu();
             op = new java.util.Scanner(System.in).nextInt();
         }
+        System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
         System.out.println("Fim do programa!");
     }
 
