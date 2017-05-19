@@ -62,7 +62,7 @@ public class Main {
                new br.cli.gui.GuiSubtrairnNumeros().subtrairnumeros();
             }
             if(op==33){
-               new br.cli.gui.GuiOrdenacao();
+               new br.cli.gui.GuiOrdenacao().ordenacao();
             }
             
             
@@ -88,8 +88,8 @@ public class Main {
         System.out.println("19 - Informa um número para verificar se é par ou impar? ");
         System.out.println("21 - Informa um número para o somatorio? "); //calcula de 1 ate o numero informado
         System.out.println("25 - Calcular a média entre dois números? ");
-        System.out.println("24 - Calcular a média entre dois números? ");//calcula a media entre 2 numeros
-        System.out.println("33 - Ordenar numero");//calcula a media entre 2 numeros
+        System.out.println("24 - Calcular a porcentagem de um número");//calcula a media entre 2 numeros
+        System.out.println("33 - Ordenar numero aleatório");
     }
 
 }

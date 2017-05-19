@@ -12,9 +12,12 @@ package br.cli.gui;
 public class GuiOrdenacao {
     
     public void ordenacao() {
-        
-        
         System.out.println("Numeros Ordenados");
-  
+        int[] vetor = new br.cli.func.Ordenacao().ordenacao();
+        for (int i = 0; i < vetor.length; i++) {
+            System.out.println(vetor[i]);
+        }
+        
+ 
     }
 }

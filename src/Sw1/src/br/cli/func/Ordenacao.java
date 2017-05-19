@@ -11,7 +11,7 @@ package br.cli.func;
  */
 public class Ordenacao {
 
-    public void ordenacao() {
+    public int[]  ordenacao() {
 
         int quantidade = 5;
         int[] vetor = new int[quantidade];
@@ -19,9 +19,7 @@ public class Ordenacao {
         for (int i = 0; i < vetor.length; i++) {
             vetor[i] = (int) (Math.random() * quantidade);
         }
-        for (int i = 0; i < vetor.length; i++) {
-            System.out.println(vetor[i]);
-        }
+        
         boolean troca = true;
         int aux;
         while (troca) {
@@ -35,8 +33,7 @@ public class Ordenacao {
                 }
             }
         }
-        for (int i = 0; i < vetor.length; i++) {
-            System.out.println(vetor[i]);
-        }
-    }
+        
+        return vetor;
+    } 
 }
