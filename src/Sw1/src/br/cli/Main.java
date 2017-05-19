@@ -7,8 +7,8 @@ package br.cli;
 
 import br.cli.gui.GuiCalcularMedia;
 import br.cli.gui.GuiParOuImpar;
+import br.cli.gui.GuiPotenciacao;
 import br.cli.gui.GuiSomatorio;
-import br.cli.gui.GuiMaiorMenor;
 
 /**
  *
@@ -64,6 +64,9 @@ public class Main {
             if(op==33){
                new br.cli.gui.GuiOrdenacao().ordenacao();
             }
+            if(op==26){
+               new GuiPotenciacao();
+            }
             
             
             
@@ -89,6 +92,7 @@ public class Main {
         System.out.println("21 - Informa um número para o somatorio? "); //calcula de 1 ate o numero informado
         System.out.println("25 - Calcular a média entre dois números? ");
         System.out.println("24 - Calcular a porcentagem de um número");//calcula a media entre 2 numeros
+        System.out.println("26 - Potencia");
         System.out.println("33 - Ordenar numero aleatório");
     }
 
