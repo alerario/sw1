@@ -67,6 +67,9 @@ public class Main {
             if(op==26){
                new GuiPotenciacao();
             }
+             if(op==55){
+               new br.cli.gui.GuiAleatorio().aleatorio();
+            }
             
             
             
@@ -94,6 +97,7 @@ public class Main {
         System.out.println("24 - Calcular a porcentagem de um número");//calcula a media entre 2 numeros
         System.out.println("26 - Potencia");
         System.out.println("33 - Ordenar numero aleatório");
+        System.out.println("55 - numero aleatório");
     }
 
 }
