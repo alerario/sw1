@@ -8,6 +8,7 @@ package br.cli;
 import br.cli.gui.GuiCalcularMedia;
 import br.cli.gui.GuiParOuImpar;
 import br.cli.gui.GuiPotenciacao;
+import br.cli.gui.GuiRaizCubica;
 import br.cli.gui.GuiSomatorio;
 
 /**
@@ -66,6 +67,9 @@ public class Main {
             }
             if(op==26){
                new GuiPotenciacao();
+            }
+            if(op==27){
+               new GuiRaizCubica();
             }
             
             
