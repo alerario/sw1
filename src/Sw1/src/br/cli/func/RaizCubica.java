@@ -11,8 +11,6 @@ package br.cli.func;
  */
 public class RaizCubica {
     public static double RaizCubica(int x){
-        Math.cbrt(x);
-        return x;
-        
+        return Math.cbrt(x);   
     }
 }

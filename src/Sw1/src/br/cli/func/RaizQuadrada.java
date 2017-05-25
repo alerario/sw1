@@ -11,9 +11,7 @@ package br.cli.func;
  */
 public class RaizQuadrada {
     public static double RaizQuadrada(int x){
-        Math.sqrt(x);
-        return x;
-        
+        return Math.sqrt(x);
     }
     
 }
