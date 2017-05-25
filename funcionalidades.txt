@@ -10,12 +10,18 @@
 9 - Tiago Coelho - Divisão de dois números;
 10 - Anderson - multiplicar dois numeros;
 11 - Roberto - baskara;
-12 - Dafny - Fatoração;
+12 - Dafny - Média entre N numeros;
 13 - Carlos - Raiz quadrada;
-14 - Fabricio - Multiplicar de N números
+14 - Fabricio - Multiplicar N números
 15 - Lucas Jacinto - calcular fibonacci
--16 - lua - raiz quadrada
+-16 - lua -porcentagem de um numero
 17 - Rodrigo - Distância entre Pontos
-18 - Caroline - multiplicar 3 numeros
-19- Joao Paulo - Numero primo
-20- Vitor stelmastchuk - subtração
+18 - Rubens - multiplicar n numeros
+19 - Joao Paulo - Numero par ou impar
+20 - Caroline - multiplicar 3 numeros
+21- João Paulo - somatório de 1 até o número informado
+22- Vitor stelmastchuk - subtração
+23 - Andressa - Leite - ordenacao
+24 - Rodrigo - Distância entre Pontos
+25 - João Paulo - Media entre 2 Números
+26 - Luiz Guilherme Devide - Potenciação
