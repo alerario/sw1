@@ -93,6 +93,7 @@ public class Main {
         System.out.println("25 - Calcular a média entre dois números? ");
         System.out.println("24 - Calcular a porcentagem de um número");//calcula a media entre 2 numeros
         System.out.println("26 - Potencia");
+        System.out.println("27 - Raiz cubica de um numero");
         System.out.println("33 - Ordenar numero aleatório");
     }
 
