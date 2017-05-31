@@ -108,7 +108,7 @@ public class Main {
         System.out.println("27 - Raiz cubica de um numero");
         System.out.println("28 - Raiz quadrada de um numero");
         System.out.println("33 - Ordenar numero aleatório");
-        System.out.println("38 - Multiplicar");
+        System.out.println("38 - Multiplicar 2 numeros");
         System.out.println("44 - Calcular Fibonacci");
         System.out.println("55 - numero aleatório");
     }
