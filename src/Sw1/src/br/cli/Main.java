@@ -81,6 +81,11 @@ public class Main {
                 new GuiMultiplicar(); 
              }
             
+            else if(op==666){
+                new GuiDivisao(); 
+             }
+            
+            
             menu();
             op = new java.util.Scanner(System.in).nextInt();
         }
@@ -111,6 +116,7 @@ public class Main {
         System.out.println("38 - Multiplicar 2 numeros");
         System.out.println("44 - Calcular Fibonacci");
         System.out.println("55 - numero aleatório");
+        System.out.println("666 - Divisão");
     }
 }
 
