@@ -70,6 +70,11 @@ public class Main {
             }
             else if(op==55){
                new br.cli.gui.GuiAleatorio().aleatorio();
+               
+            }
+            
+             else if(op==66){
+               new br.cli.gui.GuiSubtração().subtração();
             }
             
             menu();
