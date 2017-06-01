@@ -85,6 +85,10 @@ public class Main {
                 new GuiDivisao(); 
              }
             
+            else if (op == 18){
+                new br.cli.func.MultiplicarNnumeros().multplicannumeros();
+            }
+            
             
             menu();
             op = new java.util.Scanner(System.in).nextInt();
@@ -117,6 +121,7 @@ public class Main {
         System.out.println("44 - Calcular Fibonacci");
         System.out.println("55 - numero aleatório");
         System.out.println("666 - Divisão");
+        System.out.println("18 - Divisão");
     }
 }
 
