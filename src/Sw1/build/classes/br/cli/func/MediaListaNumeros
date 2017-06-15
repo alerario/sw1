@@ -1,0 +1,17 @@
+package br.cli.func;
+
+import java.util.List;
+
+/**
+ *
+ * @author daphnemillss
+ */
+public class MediaListaNumeros {
+    public double media(List<Double> listaNumeros){
+        double total = 0;
+        for(double n : listaNumeros){
+            total += n;
+        }
+        return total/listaNumeros.size();
+    }
+}

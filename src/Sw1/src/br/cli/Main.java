@@ -73,6 +73,11 @@ public class Main {
                
             }
             
+            else if(op==90){
+               new br.cli.gui.GuiBaskara().lerBaskara();
+               
+            }
+            
              else if(op==66){
                new br.cli.gui.GuiSubtração().subtração();
             }
@@ -121,6 +126,7 @@ public class Main {
         System.out.println("44 - Calcular Fibonacci");
         System.out.println("55 - numero aleatório");
         System.out.println("666 - Divisão");
+        System.out.println("90 - Formula de Baskara");
         System.out.println("18 - Divisão");
     }
 }
