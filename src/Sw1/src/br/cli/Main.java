@@ -79,7 +79,7 @@ public class Main {
             }
             
              else if(op==66){
-               new br.cli.gui.GuiMultiplicarPorDois().MutiplicarPorDois();
+               new GuiLogaritimo();
             }
             
              else if(op==38){
@@ -106,7 +106,7 @@ public class Main {
         System.out.println("###########################################");
         System.out.println("0 - sair");
         System.out.println("1 - somar dois numeros");
-        System.out.println("2 - subtrair dois numeros");
+        System.out.println("2 - Multiplicar por 2");
         System.out.println("3 - Informar o maior e o menor número");
         System.out.println("7 - fatorial de um numero");
         System.out.println("8 - subtrair n numeros");
@@ -125,7 +125,7 @@ public class Main {
         System.out.println("38 - Multiplicar 2 numeros");
         System.out.println("44 - Calcular Fibonacci");
         System.out.println("55 - numero aleatório");
-        System.out.println("666 - Divisão");
+        System.out.println("66 - Calculando Logaritimo");
         System.out.println("90 - Formula de Baskara");
         System.out.println("18 - Divisão");
     }
