@@ -1,4 +1,4 @@
-package sw1;
+package br.cli.func;
 
 /**
  *
