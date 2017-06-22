@@ -9,18 +9,18 @@ package br.cli.gui;
  *
  * @author Vitor
  */
-public class GuiSubtração {
-    public void subtração(){
+public class GuiMultiplicarPorDois {
+    public void MutiplicarPorDois(){
         int a;
-        int b;
+       
        
         System.out.print("Escreva o primeiro numero :");
         a = new java.util.Scanner(System.in).nextInt();
+        int b = 0;
         
-        System.out.print("Escreva o segundo numero:");
-        b = new java.util.Scanner(System.in).nextInt();
+       
         
-        System.out.print("Resultado:" + new br.cli.func.Subtração().Subtração(a, b));
+        System.out.print("Resultado:" + new br.cli.func.MutiplicarPorDois().MutiplicarPorDois(b));
     }
     
 }

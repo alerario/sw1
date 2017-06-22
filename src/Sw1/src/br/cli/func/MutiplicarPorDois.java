@@ -9,12 +9,11 @@ package br.cli.func;
  *
  * @author Vitor
  */
-public class Subtração {
-    public int Subtração(int b, int d){
-        int x = b - d;
-        int option = 1;
-        int a = x;
-        
+public class MutiplicarPorDois {
+    public int MutiplicarPorDois(int b){
+       int a = b*2;
+       
+       
         
         return a;
     }

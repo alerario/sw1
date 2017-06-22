@@ -79,7 +79,7 @@ public class Main {
             }
             
              else if(op==66){
-               new br.cli.gui.GuiSubtração().subtração();
+               new br.cli.gui.GuiMultiplicarPorDois().MutiplicarPorDois();
             }
             
              else if(op==38){
