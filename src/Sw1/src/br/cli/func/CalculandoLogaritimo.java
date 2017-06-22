@@ -9,13 +9,9 @@ package br.cli.func;
  *
  * @author Vitor
  */
-public class MutiplicarPorDois {
-    public int MutiplicarPorDois(int b){
-       int a = b*2;
-       
-       
-        
-        return a;
+public class CalculandoLogaritimo{
+   public static double CalculandoLogaritimo(int b){
+        return Math.log(b);   
     }
     
 }
