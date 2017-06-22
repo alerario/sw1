@@ -15,15 +15,6 @@ public class Subtração {
         int option = 1;
         int a = x;
         
-        while(option !=0){
-            System.out.print("Digite outro numero ou 0 para sair");
-            option = new java.util.Scanner(System.in).nextInt();
-            if(option != 0){
-                a = x - option;
-                
-            }
-    
-        }
         
         return a;
     }
