@@ -12,15 +12,22 @@ package br.cli.func;
  */
 public class subtrairnNumeros {
     public int subtrairnNumeros(int a, int b){
-        int x = a - b;
-        int option = 1;
+        int k = a - b;
+		int x = k;
+		int ini1 = 1;
+		int ini0 = 0;
+        int option = ini1;
+		
         int z = x;
-        
+		
+        int aux = ini0;
+		
         while(option !=0){
             System.out.print("Digite outro numero ou 0 para sair");
             option = new java.util.Scanner(System.in).nextInt();
             if(option != 0){
-                z = x - option;
+				aux = x - option;
+				z = aux;
                 
             }
     
